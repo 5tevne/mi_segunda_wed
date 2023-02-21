@@ -1,0 +1,18 @@
+h1{color:darkred;
+   font-family: 'Babylonica', cursive;
+   text-align: center;
+
+}
+h2{color:chocolate;
+   font-family: 'Francois One', sans-serif;
+   text-align: center;}
+h3{color:blueviolet;
+   font-family: 'Francois One', sans-serif;
+   text-align:center;}
+h4{color:dodgerblue;
+   font-family: 'Babylonica', cursive;
+   text-align: left;}
+   body{
+        background-color:rgb(240, 183, 61);
+   }
+
